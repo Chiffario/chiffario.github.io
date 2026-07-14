@@ -82,7 +82,7 @@ If you filter out by users who have more than 300 submitted passes within the sa
 
 {{< image src="/img/lazer/threshold_past_month.png" position="center" >}}
 
-The player split still generally follows the same curve - a bell curve with the center at 18M-20M (tail end of COVID) with a rapid spike after 34M (july 2023).
+The player split still generally follows the same curve - a bell curve with the center at 18M-20M (tail end of COVID) with a rapid spike after 34M (July 2023).
 
 If you look for the general user split, you can see that it is still a majority of lazer players.
 
@@ -91,8 +91,8 @@ If you look for the general user split, you can see that it is still a majority 
 As you can see, the ratio of players *grows* with a playcount cutoff, which (hypothetically, at least) shows that lazer players are more dedicated than stable players, not less.
 
 ## Thoughts
-Honestly, I'm tired of this stupid culture war. I'm tired of both sides calling the other half names, I'm tired of lazer players mocking stable players for being outdated, I'm tired of stable players calling peppy a fat fuck for not updating stable, I'm tired of everyone saying things without second thought. This is what brings the divide - not the client, not the features, but people being angry for no good reason. 
+Honestly, I'm tired of this stupid culture war. I'm tired of both sides calling the other half names, I'm tired of lazer players mocking stable players for being outdated, I'm tired of stable players insulting peppy for not updating stable, I'm tired of everyone saying negative things without second thought. This is what brings the divide - not the client, not the features, but people being angry for no good reason. 
 
-I am publishing this as a way to showcase that reality is more complicated than that, and that with real data there is no reason to lie - lazer is being adopted by the community, but not at an insane pace. The game is not dying either - we've hit a new online user count peak of the past 2+ years just a few days ago, reaching 18k concurrent players at peak and averaging around 14k. The development is going great, the game really should be thriving, but if only osu! players stopped barking at each other all the time.
+I am publishing this as a way to showcase that reality is more complicated than that, and that with real data there is no reason to lie - lazer is being adopted by the community, even if not at an insane pace. The game is not dying either - we've hit a new online user count peak of the past 2+ years just a few days ago, reaching 18k concurrent players at peak and averaging around 14k. The development is going great, the game really should be thriving, so let's try stopping all this community-level divide and stay united, as we should be, because there is no reason to be angry in a world that's already harsh on us, and because spreading happiness and positivity is the best way to shine some light around us.
 
-Oh well, to keep it serious - stay real and don't lie with statistics!
+Oh well, to keep it on topic - stay real and don't lie with statistics!

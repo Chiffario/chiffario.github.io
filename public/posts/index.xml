@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Terminal</title>
-		<link>//localhost:1313/posts/</link>
+		<link>/posts/</link>
 		<description>Recent content in Posts on Terminal</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>osu!lazer and lying with statistics</title>
-				<link>//localhost:1313/posts/osu-lazer-and-lying-with-statistics/</link>
+				<link>/posts/osu-lazer-and-lying-with-statistics/</link>
 				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>//localhost:1313/posts/osu-lazer-and-lying-with-statistics/</guid>
+				<guid>/posts/osu-lazer-and-lying-with-statistics/</guid>
 				<description>&lt;p&gt;I have been an osu! player for the past 8 years, and a data nerd for 4. At some point, with a nudge from my friends, I decided to combine both ideas into one and do some data collection for osu! related to the adoption of osu!lazer, leading to the creation of &lt;a href=&#34;https://arewelazeryet.chiffa.lol/&#34;&gt;arewelazeryet&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The title of the post is related to a silly phenomenon - osu! players, especially within a certain generation of players I shall not target directly, love to downplay the adoption of osu!lazer among the playerbase, so this post is an attempt to talk about the situation with more or less objective data, while also discussing this little journey in non-technical details (as the technical parts are coming in a separate blogpost)&lt;/p&gt;</description>
 			</item>
 	</channel>

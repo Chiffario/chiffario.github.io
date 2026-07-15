@@ -97,7 +97,7 @@ A few hours after publishing this, I received a Discord friend request from pepp
 
 The friend request was followed up by peppy doing a very kind gesture of filling a missing piece I've had in all my data collection efforts - client adoption based on user ranks. I wanted to collect this data myself, but deemed it not feasible without practically DDoS-ing osu! API.
 
-<< image src="/img/lazer/ppy_rank_chart.png" position="center" >>
+{{< image src="/img/lazer/ppy_rank_chart.png" position="center" >}}
 
 As you can see, client adoption is even more complicated than this! This data (as collected in two weeks somewhere in May or June) shows that a lot of higher ranked players are split between the clients, which is something some people predicted (and honestly makes sense).
 

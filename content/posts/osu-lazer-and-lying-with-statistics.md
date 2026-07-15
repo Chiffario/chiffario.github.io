@@ -90,6 +90,17 @@ If you look for the general user split, you can see that it is still a majority 
 
 As you can see, the ratio of players *grows* with a playcount cutoff, which (hypothetically, at least) shows that lazer players are more dedicated than stable players, not less.
 
+## Addendum (2026-07-15)
+A few hours after publishing this, I received a Discord friend request from peppy himself, which was a great jumpscare first thing in the morning.
+
+{{< image src="/img/lazer/ppy_friend_req.png" position="center" >}}
+
+The friend request was followed up by peppy doing a very kind gesture of filling a missing piece I've had in all my data collection efforts - client adoption based on user ranks. I wanted to collect this data myself, but deemed it not feasible without practically DDoS-ing osu! API.
+
+<< image src="/img/lazer/ppy_rank_chart.png" position="center" >>
+
+As you can see, client adoption is even more complicated than this! This data (as collected in two weeks somewhere in May or June) shows that a lot of higher ranked players are split between the clients, which is something some people predicted (and honestly makes sense).
+
 ## Thoughts
 Honestly, I'm tired of this stupid culture war. I'm tired of both sides calling the other half names, I'm tired of lazer players mocking stable players for being outdated, I'm tired of stable players insulting peppy for not updating stable, I'm tired of everyone saying negative things without second thought. This is what brings the divide - not the client, not the features, but people being angry for no good reason. 
 
